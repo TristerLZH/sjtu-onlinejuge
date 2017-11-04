@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509524180 source:c:\users\pc\desktop\code\sjtu oj\test\main.cpp
+	<iostream>
+	<cstdlib>
+	<cstdio>
+
