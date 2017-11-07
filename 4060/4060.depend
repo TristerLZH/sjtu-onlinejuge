@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1510039835 source:c:\users\pc\desktop\code\sjtu oj\4060\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+
